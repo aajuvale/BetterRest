@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2025-07-23T22:40:20Z",
+        "event" : "projectCreated",
+        "id" : "39276020-ADFB-4B52-8DC8-5C975FB9EC66",
+        "subtitle" : "BetterRest",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Ahmed Juvale",
+  "createdDate" : "2025-07-23T22:40:20Z",
+  "description" : "",
+  "id" : "26B7C033-9D08-49E3-A34E-36712E46C80A",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2025-07-23T22:40:20Z",
+  "projectName" : "BetterRest",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "generalRegresor",
+  "title" : "Tabular Regression",
+  "version" : "1.1"
+}
